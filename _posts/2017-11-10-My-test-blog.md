@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>My test blog</td>
+    <td> My test blog </td>
     <td>Date</td>
     <td>10/11/17</td>
   </tr>
@@ -27,7 +27,7 @@ published: true
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td></td>
+    <td>Yes I did</td>
   </tr>
 </table>
 
@@ -39,7 +39,7 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td></td>
+    <td>I wasn't sure how to publish but I worked my mind and remembered in the end</td>
   </tr>
   <tr>
     <td>Questioning?</td>
@@ -47,11 +47,11 @@ published: true
   </tr>
   <tr>
     <td>Independence</td>
-    <td></td>
+    <td>Although sometimes it was difficult I didn’t ask for help</td>
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td></td>
+    <td>I looked back on my work and thought it went well and looks good</td>
   </tr>
   <tr>
     <td>Engagement</td>
