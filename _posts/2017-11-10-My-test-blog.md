@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td> My test blog </td>
+    <td>My test blog                                                                                                                                                                                                                        </td>
     <td>Date</td>
     <td>10/11/17</td>
   </tr>
@@ -39,15 +39,15 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>I wasn't sure how to publish but I worked my mind and remembered in the end</td>
+    <td>I wasn't sure how to publish but I remembered in the end</td>
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td></td>
+    <td>I double checked it work because it went well first time</td>
   </tr>
   <tr>
     <td>Independence</td>
-    <td>Although sometimes it was difficult I didn’t ask for help</td>
+    <td>I didn’t ask for help </td>
   </tr>
   <tr>
     <td>Reflecting</td>
@@ -62,7 +62,8 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>On this occasion most things well first time.
+If I had remembered how to publish my work it would have helped me save more time.</td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +71,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>I could try and listen really intently in the lesson for helpful tips.</td>
     <td></td>
   </tr>
 </table>
