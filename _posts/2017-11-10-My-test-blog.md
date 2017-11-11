@@ -62,7 +62,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>On this occasion most things well first time.
+    <td>On this occasion most things went well first time.
 If I had remembered how to publish my work it would have helped me save more time.</td>
     <td></td>
   </tr>
