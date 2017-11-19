@@ -57,7 +57,7 @@ published: true
     <td>Engagement</td>
     <td>I engaged in the lesson by looking at the board enough to remember how to create good code on Scratch and I also listened enough about the homework so in this section I will also list the sprites and variables in the retro games I played:
 Donkey kong: sprites: Donkey Kong, Princess Peach, Mario, barrels small fire sprite near Donkey Kong. Variables: score, level, lives and bonus.
-Tetris: sprites: the shapes. Variables: score lines and levels
+Tetris: sprites: the shapes. Variables: score lines and levels.
 Frogger: sprites: the frog, cars, trucks, flies, logs and turtles. Variables: score, lives and time.
 Q*bert: sprites: Q*bert, balls and the snake. Variables: lives and score.
 Super Mario Bros.: sprites: Mario, Luigi, flowers, small brom gremlins and the turtle. Variables: score and lives.</td>
