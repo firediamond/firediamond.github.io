@@ -39,7 +39,7 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>I struggled with Scratch a bit because it was my first third time using it but I didn't give up and carried on with the lesson.</td>
+    <td>I struggled with Scratch a bit because it was my third time using it but I didn't give up and carried on with the lesson.</td>
   </tr>
   <tr>
     <td>Questioning?</td>
