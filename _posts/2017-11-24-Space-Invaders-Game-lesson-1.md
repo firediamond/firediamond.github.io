@@ -1,5 +1,5 @@
 ---
-title: Space Invaders Game lesson 1
+title: Space Invaders Game, spaceship movement
 layout: post
 author: barnaby.sticklen
 permalink: /space-invaders-game-lesson-1/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Space Invaders Game L1</td>
+    <td>Space Invaders Game, spaceship movement</td>
     <td>Date</td>
     <td>24/11/17</td>
   </tr>
@@ -62,7 +62,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>If I didn’t have to be reminded of something on the board by Mr Keen.</td>
+    <td>If I didn’t have to be reminded of something on the board by Mr Keen. this was about how the ship moved.</td>
     <td></td>
   </tr>
   <tr>
