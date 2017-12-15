@@ -1,5 +1,5 @@
 ---
-title: Space Invaders L3
+title: Space Invaders, making aliens vanish
 layout: post
 author: barnaby.sticklen
 permalink: /space-invaders-l3/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Space Invaders L3</td>
+    <td>Space Invaders, making aliens vanish</td>
     <td>Date</td>
     <td>09/12/17</td>
   </tr>
