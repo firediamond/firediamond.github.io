@@ -1,5 +1,5 @@
 ---
-title: Space Invaders L2
+title: Space Invaders, making alien rows
 layout: post
 author: barnaby.sticklen
 permalink: /space-invaders-l2/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Space Invaders L2</td>
+    <td>Space Invaders, making alien rows</td>
     <td>Date</td>
     <td>03/12/17</td>
   </tr>
