@@ -39,7 +39,7 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>I had to persevere when I was looking for a moving image to put as my background that was not a GIF. in the end I found a .jpg image but I did not have time to put this image up.</td>
+    <td>I had to persevere when I was looking for a moving image to put as my background that was not a GIF. In the end I found a .jpg image but I did not have time to put this image up.</td>
   </tr>
   <tr>
     <td>Questioning?</td>
@@ -51,7 +51,7 @@ published: true
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td>When I looked back on my work not much on my blog post had changed but in my code I had done a lot of editing. </td>
+    <td>When I looked back on my work, not much on my blog post had changed but in my code I had done a lot of editing. </td>
   </tr>
   <tr>
     <td>Engagement</td>
