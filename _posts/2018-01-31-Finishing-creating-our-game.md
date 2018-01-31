@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Finishing creating our game</td>
     <td>Date</td>
-    <td>01/01/18</td>
+    <td>31/01/18</td>
   </tr>
 </table>
 
