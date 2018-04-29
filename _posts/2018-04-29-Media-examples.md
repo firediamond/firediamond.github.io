@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Media examples</td>
     <td>Date</td>
-    <td>01/04/18</td>
+    <td>29/04/18</td>
   </tr>
 </table>
 
